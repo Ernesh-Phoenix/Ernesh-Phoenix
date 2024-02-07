@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HAREHARAN P K</h1>
 <h3 align="center">A passionate frontend developer & cyber security from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 - 🔭 I’m currently working on **Alpha Firewall (A simple but effective firewall that could filter incoming and outgoing network traffic).**
 
 - 🌱 I’m currently learning **Front End , UI/UX Designing , ML & Cyber Security**
