@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HAREHARAN P K</h1>
-<h3 align="center">A passionate frontend developer & gamer from India</h3>
+<h3 align="center">A passionate frontend developer & gamer tester from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 - 🔭 I’m currently working on **Alpha Firewall (A simple but effective firewall that could filter incoming and outgoing network traffic).**
 
